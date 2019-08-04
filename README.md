@@ -10,6 +10,9 @@ a simple navigation structure for react native.<br>
 
     * react-navigation
 
+- refer to the [installation document](https://reactnavigation.org/docs/en/getting-started.html#installation)
+- check your react-native version (React Native 0.60 and higher / React Native 0.59 and lower)
+
 ## Structure
 
     src
@@ -39,3 +42,4 @@ a simple navigation structure for react native.<br>
 ### 4. Tab Navigator -> Login
 
 <img src="https://github.com/Yuddomack/react-native-stack-tab-stack-navigation-structure/blob/master/img/logout.png" width="33%"><img src="https://github.com/Yuddomack/react-native-stack-tab-stack-navigation-structure/blob/master/img/login.png" width="33%">
+
