@@ -14,4 +14,4 @@ a simple navigation structure for react native.<br>
 
 ### 1. Login -> Tap Navigator
 
-<center><img src="https://github.com/Yuddomack/react-native-stack-tab-stack-navigation-structure/blob/master/img/login.png" width="33%"><img src="https://github.com/Yuddomack/react-native-stack-tab-stack-navigation-structure/blob/master/img/home.png" width="33%"></center>
+<img src="https://github.com/Yuddomack/react-native-stack-tab-stack-navigation-structure/blob/master/img/login.png" width="33%"><img src="https://github.com/Yuddomack/react-native-stack-tab-stack-navigation-structure/blob/master/img/home.png" width="33%">
