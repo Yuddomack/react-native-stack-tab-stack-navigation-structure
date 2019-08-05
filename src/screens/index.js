@@ -13,8 +13,8 @@ const HomeStack = createStackNavigator(
     {
         HomeScreen
     },
-    // if you need,
-    // but i recommend custom header
+    // if you need.
+    // recommend custom header
     {
         defaultNavigationOptions: ({navigation}) => ({
             title: 'Home',
@@ -26,8 +26,6 @@ const SettingStack = createStackNavigator(
         SettingScreen,
         SomethingScreen
     },
-    //if you need,
-    // but i recommend custom header
     {
         defaultNavigationOptions: ({navigation}) => ({
             title: 'Setting',
